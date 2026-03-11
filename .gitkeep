@@ -1,0 +1,6 @@
+tasks/intermediate/.gitkeep
+tasks/advanced/.gitkeep
+src/app/.gitkeep
+src/components/.gitkeep
+src/lib/.gitkeep
+src/types/.gitkeep
